@@ -1,6 +1,6 @@
 Hi there, I'm Amulya 👋
 
-First Year CSE Student at Chandigarh University | Aspiring Software Engineer | GSSoC 2026 Contributor 
+First Year CSE Student at Chandigarh University | Aspiring Software Developer | GSSoC 2026 Contributor 
 
 ~ Currently improving DSA and getting started with the PERN Stack 
 ~ Codeforces Newbie (Max Rating: 600) #Amulya617 
